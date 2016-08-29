@@ -1,0 +1,24 @@
+{
+  "name": "wee-web",
+  "version": "0.0.1",
+  "description": "front end web application for Wee project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw-wee/wee-web.git"
+  },
+  "keywords": [
+    "wee",
+    "react",
+    "redux"
+  ],
+  "author": "wee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tw-wee/wee-web/issues"
+  },
+  "homepage": "https://github.com/tw-wee/wee-web#readme"
+}
